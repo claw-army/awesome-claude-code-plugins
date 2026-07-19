@@ -458,18 +458,6 @@
       "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/husky"
     },
     {
-      "name": "2-commit-fast",
-      "source": "./plugins/2-commit-fast",
-      "description": "Automates git commit process by selecting the first suggested message, generating structured commits with consistent formatting while skipping manual confirmation and removing Claude co-Contributorship footer",
-      "version": "1.0.0",
-      "author": {
-        "name": "steadycursor",
-        "url": "https://github.com/steadycursor"
-      },
-      "category": "general",
-      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/2-commit-fast"
-    },
-    {
       "name": "pr-issue-resolve",
       "source": "./plugins/pr-issue-resolve",
       "description": "this is to analyze the PRs and solve the requested changes in them\n",
@@ -503,20 +491,6 @@
         "refactoring",
         "testing",
         "security"
-      ]
-    },
-    {
-      "name": "accessibility-expert",
-      "source": "./plugins/accessibility-expert",
-      "description": "Examples:",
-      "version": "1.0.0",
-      "author": {
-        "name": "Alysson Franklin"
-      },
-      "category": "agents",
-      "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/accessibility-expert",
-      "keywords": [
-        "subagent"
       ]
     },
     {
@@ -1483,6 +1457,29 @@
       "homepage": "https://github.com/ccplugins/awesome-claude-code-plugins/tree/main/plugins/twitter-engager",
       "keywords": [
         "subagent"
+      ]
+    },
+    {
+      "name": "hermes-tweet",
+      "source": "./plugins/hermes-tweet",
+      "description": "Native Hermes Agent X/Twitter plugin for Xquik automation with read-first workflows and approval-gated actions. Not affiliated with X Corp.",
+      "version": "0.1.8",
+      "author": {
+        "name": "Xquik",
+        "url": "https://github.com/Xquik-dev"
+      },
+      "category": "Marketing Growth",
+      "homepage": "https://github.com/Xquik-dev/hermes-tweet#readme",
+      "repository": "https://github.com/Xquik-dev/hermes-tweet",
+      "license": "MIT",
+      "keywords": [
+        "hermes-agent",
+        "hermes-plugin",
+        "xquik",
+        "twitter",
+        "x",
+        "social-media",
+        "automation"
       ]
     },
     {

@@ -17,10 +17,10 @@
     - [设计与用户体验](#用户体验设计)
     - [工程开发](#工程开发)
     - [文档管理](#文档管理)
-    - [Git 工作流](#Git工作流)
+    - [Git 工作流](#git工作流)
     - [市场营销与增长](#市场营销与增长)
     - [项目与产品管理](#项目与产品管理)
-    - [安全、合规与法律](#安全、合规与法律)
+    - [安全、合规与法律](#安全合规与法律)
 * [使用教程](#使用教程)
 * [如何贡献](#如何贡献)
 
@@ -49,7 +49,7 @@
 
 ### Claude Code 官方插件
 - [agent-sdk-dev](./plugins/agent-sdk-dev)
-- [pr-review-toolkit](./plugins/pr-review-toolkit")
+- [pr-review-toolkit](./plugins/pr-review-toolkit)
 - [commit-commands](./plugins/commit-commands)
 - [feature-dev](./plugins/feature-dev)
 - [security-guidance](./plugins/security-guidance)
@@ -163,6 +163,7 @@
 - [app-store-optimizer](./plugins/app-store-optimizer)
 - [content-creator](./plugins/content-creator)
 - [growth-hacker](./plugins/growth-hacker)
+- [hermes-tweet](./plugins/hermes-tweet)
 - [instagram-curator](./plugins/instagram-curator)
 - [reddit-community-builder](./plugins/reddit-community-builder)
 - [tiktok-strategist](./plugins/tiktok-strategist)
