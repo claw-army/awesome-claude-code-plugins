@@ -129,6 +129,7 @@ Install or disable them dynamically with the `/plugin` command — enabling you 
 - [mobile-app-builder](./plugins/mobile-app-builder)
 - [project-curator](./plugins/project-curator)
 - [python-expert](./plugins/python-expert)
+- [plugship-preflight](https://github.com/williamleewilliam1-star/plugship-preflight) - Local preflight scanner and skill for Claude Plugin Directory submissions: manifest, docs, privacy, file hygiene, MCP/skill checks, credential-literal detection, and local validation.
 - [rapid-prototyper](./plugins/rapid-prototyper)
 - [react-native-dev](./plugins/react-native-dev)
 - [vision-specialist](./plugins/vision-specialist)
